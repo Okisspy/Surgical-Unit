@@ -2,15 +2,15 @@
 
 A hospital surgery unit was interested in predicting survival in patients undergoing a particular type of liver operation. A random selection of 108 patients was available for analysis. For each patient record, the following information was extracted from the pre-operation evaluation:
 
-      blood:     Blood clotting score
+      blood:    Blood clotting score
 
-      prog:       Prognostic index
+      prog:     Prognostic index
 
-      enzyme:  Enzyme function test score
+      enzyme:   Enzyme function test score
 
-      liver:        Liver function test score
+      liver:    Liver function test score
 
-      age:         Age in years
+      age:      Age in years
 
       gender:   I(person is female) i.e. 0 = male, 1=female
 
