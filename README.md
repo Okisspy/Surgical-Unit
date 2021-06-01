@@ -22,3 +22,5 @@ A hospital surgery unit was interested in predicting survival in patients underg
 A follow-up study ascertained the response variable, "survival time", which is the amount of time the person survived after the surgery.
 
 The dataset available for this analysis is for the first 54 patients.
+
+The GOAL of this project is to select the best model through the Modeling Building Process.
